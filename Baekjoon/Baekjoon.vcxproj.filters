@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\규칙찾기">
+      <UniqueIdentifier>{f2347ffa-a7b8-42d2-acdf-59788f851714}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\동적계획법기초">
+      <UniqueIdentifier>{a30faeaa-06ab-4a0c-85b3-f622230d2533}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문자열">
+      <UniqueIdentifier>{f1964ef3-d8a0-4d9d-98dd-157f5e7784bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\함수사용하기">
+      <UniqueIdentifier>{c290a595-e70a-4682-b9d0-f52fb9a127a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1차원 배열">
+      <UniqueIdentifier>{a7673f48-87f2-4631-998f-423ca4624928}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\for if">
+      <UniqueIdentifier>{573935f5-17d6-4647-aaef-b5d5da63bbb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\사칙연산">
+      <UniqueIdentifier>{aa987cf6-28d0-4495-b360-fa018d040e2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\정렬하기">
+      <UniqueIdentifier>{bc099a16-4ec3-44f5-b3f0-269cce091cec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\피보나치">
+      <UniqueIdentifier>{4ab95df0-7c38-4228-bb27-5c521add421d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\입출력">
+      <UniqueIdentifier>{2f0a4964-1a49-488d-87cd-a7cba7dec5eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\소수찾기">
+      <UniqueIdentifier>{40829fb2-f4c0-4bda-8e0c-021dbb665a02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\스택">
+      <UniqueIdentifier>{2ffce08d-e2ed-497e-9cb9-1e8c493512c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\수학">
+      <UniqueIdentifier>{bc3bfd08-d617-4cf0-94d0-460a923b9f29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\브루트포스">
+      <UniqueIdentifier>{b8da6d42-1c5a-4806-b329-5c866875e603}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\큐">
+      <UniqueIdentifier>{5c370aff-145d-494c-884a-12e582e1a729}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DFSBFS">
+      <UniqueIdentifier>{4c28edc2-2e7d-413d-ac72-26dafc072143}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DP">
+      <UniqueIdentifier>{5152c655-acef-48b1-bdae-2facd20ac7e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그리디 알고리즘">
+      <UniqueIdentifier>{f78dabfc-e51f-4eb2-9a82-ca68d62217e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\분할정복">
+      <UniqueIdentifier>{d24b4a6b-f2c0-486c-b5fb-3b8b590ed8d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백트랙킹">
+      <UniqueIdentifier>{b8410268-de91-4e17-8c87-9f4ea1379496}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1924.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1316.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1193.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2292.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1003.cpp">
+      <Filter>소스 파일\동적계획법기초</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1149.cpp">
+      <Filter>소스 파일\동적계획법기초</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1932.cpp">
+      <Filter>소스 파일\동적계획법기초</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2579.cpp">
+      <Filter>소스 파일\동적계획법기초</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1463.cpp">
+      <Filter>소스 파일\동적계획법기초</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1005.cpp">
+      <Filter>소스 파일\동적계획법기초</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1152.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ5622.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2941.cpp">
+      <Filter>소스 파일\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1065.cpp">
+      <Filter>소스 파일\함수사용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ4673.cpp">
+      <Filter>소스 파일\함수사용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2448.cpp">
+      <Filter>소스 파일\함수사용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2577.cpp">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ8958.cpp">
+      <Filter>소스 파일\1차원 배열</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ15552.cpp">
+      <Filter>소스 파일\for if</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1110.cpp">
+      <Filter>소스 파일\for if</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2839.cpp">
+      <Filter>소스 파일\사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1011.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ10250.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2775.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1475.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ6064.cpp">
+      <Filter>소스 파일\규칙찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2750.cpp">
+      <Filter>소스 파일\정렬하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2749.cpp">
+      <Filter>소스 파일\피보나치</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2751 Merge1.cpp">
+      <Filter>소스 파일\정렬하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2751 Merge2.cpp">
+      <Filter>소스 파일\정렬하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2751 Merge3.cpp">
+      <Filter>소스 파일\정렬하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ10989.cpp">
+      <Filter>소스 파일\정렬하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2108.cpp">
+      <Filter>소스 파일\정렬하기</Filter>
+    </ClCompile>
+    <ClCompile Include="chattest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1208new.cpp">
+      <Filter>소스 파일\정렬하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1427.cpp">
+      <Filter>소스 파일\정렬하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1181.cpp">
+      <Filter>소스 파일\정렬하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ10171.cpp">
+      <Filter>소스 파일\입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2588.cpp">
+      <Filter>소스 파일\사칙연산</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ15596.cpp">
+      <Filter>소스 파일\함수사용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2447.cpp">
+      <Filter>소스 파일\함수사용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="copare2file.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ11729.cpp">
+      <Filter>소스 파일\함수사용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ11650.cpp">
+      <Filter>소스 파일\정렬하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1978.cpp">
+      <Filter>소스 파일\소수찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2581.cpp">
+      <Filter>소스 파일\소수찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ4948.cpp">
+      <Filter>소스 파일\소수찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ9020.cpp">
+      <Filter>소스 파일\소수찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ10828.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ10773.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ9012.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ4949.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1712.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2869.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2309.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2231.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ7568.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1038.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1038A.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1085.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ3009.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1002.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1874.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1018.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1436.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1107.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ10845.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ11866.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1260.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1904.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ7576.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ7576A.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ7562.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2798.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ10814.cpp">
+      <Filter>소스 파일\정렬하기</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ9461.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ10844.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ10844A.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2156.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ11053.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ11047.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1931.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ7569.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2606.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ11054.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2565.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ9251.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ11399.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ17298.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2630.cpp">
+      <Filter>소스 파일\분할정복</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1992.cpp">
+      <Filter>소스 파일\분할정복</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1182.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ6603.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ10448.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1759.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2309_again.cpp">
+      <Filter>소스 파일\브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1912.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1541.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2217.cpp">
+      <Filter>소스 파일\그리디 알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ5086.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1037.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ11653.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ11724.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1707.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ10451.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2331.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GGG BJ9446.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1520.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="GG BJ11066.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2667.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="GG BJ4963.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ4963A.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2178.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2146.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2146A.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ10026.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1697.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2234.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="GG BJ10216.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2206.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ1012.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ13903.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2479.cpp">
+      <Filter>소스 파일\DFSBFS</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ15649.cpp">
+      <Filter>소스 파일\백트랙킹</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ15650.cpp">
+      <Filter>소스 파일\백트랙킹</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ15651.cpp">
+      <Filter>소스 파일\백트랙킹</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ15652.cpp">
+      <Filter>소스 파일\백트랙킹</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ9663.cpp">
+      <Filter>소스 파일\백트랙킹</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2580.cpp">
+      <Filter>소스 파일\백트랙킹</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2580 Another.cpp">
+      <Filter>소스 파일\백트랙킹</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ14888.cpp">
+      <Filter>소스 파일\백트랙킹</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ14889.cpp">
+      <Filter>소스 파일\백트랙킹</Filter>
+    </ClCompile>
+    <ClCompile Include="BJ2609.cpp">
+      <Filter>소스 파일\수학</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
